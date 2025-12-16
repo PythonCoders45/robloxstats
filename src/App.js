@@ -54,7 +54,7 @@ class App extends React.Component {
         return (
             <div className='app'>
                 <h3>
-                    Jandel's Games
+                    GamerStar's Games
                 </h3>
                 <p>
                     Look at all those numbers go!
